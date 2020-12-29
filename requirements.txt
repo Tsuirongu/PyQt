@@ -1,0 +1,8 @@
+PyQt5
+PyQt5-tools
+pyecharts==0.5.11
+pyecharts_snapshot
+phone
+pandas
+PyQtWebEngine
+pillow
